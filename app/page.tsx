@@ -6,6 +6,7 @@ export default function Home() {
       i am main branch edit
       <h1> test branch edit , hello everyone</h1>
       <p>commit from different fork</p>
+      <main> hello another from diff fork</main>
     </div>
   );
 }
